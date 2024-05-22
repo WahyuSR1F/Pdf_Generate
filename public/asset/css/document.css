@@ -1,0 +1,115 @@
+@page {
+    margin: 100px 25px 50px;
+}
+
+.main {
+    margin: 100px 25px 50px;
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.main-table {
+    width: 100%;
+    height: 100%;
+    margin: 0.1px;
+}
+
+.logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 50px;
+}
+
+.logo {
+    width: 50px;
+}
+
+.title {
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 30px;
+}
+
+.centered {
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+.subtitle {
+    font-size: 15px;
+}
+
+.shif-dinas {
+    text-transform: capitalize;
+}
+
+.date-time {
+    margin-left: 10px;
+}
+
+.output-options {
+    display: flex;
+    justify-content: space-around;
+}
+
+.output-label {
+    margin-right: 5px;
+}
+
+.signature-row {
+    height: 50px;
+}
+
+.signature-container {
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.signature-box {
+    width: 100%;
+    margin: 0px;
+    height: 100%;
+    padding: 0px;
+    border: 0.1px solid;
+    text-align: center;
+    line-height: 0;
+}
+
+.signature-line {
+    margin-bottom: 0px;
+    margin-top: 50px;
+}
+
+.empty-row {
+    width: 10px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.status-options {
+    display: flex;
+    justify-content: space-around;
+}
+
+.notes {
+    width: 100%;
+    margin: 0;
+    padding: 2px;
+}
